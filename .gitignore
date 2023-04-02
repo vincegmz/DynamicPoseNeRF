@@ -2,6 +2,7 @@ colmap/
 env/
 dense/
 sparse/
+images/
 database.db
 database.db-shm
 database.db-wal
