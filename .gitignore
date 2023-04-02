@@ -1,0 +1,8 @@
+colmap/
+env/
+dense/
+sparse/
+database.db
+databse.db-shm
+databse.db-wal
+sample.mp4
