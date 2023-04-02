@@ -3,6 +3,6 @@ env/
 dense/
 sparse/
 database.db
-databse.db-shm
-databse.db-wal
+database.db-shm
+database.db-wal
 sample.mp4
