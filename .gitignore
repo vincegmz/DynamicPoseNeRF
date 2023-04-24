@@ -3,7 +3,10 @@ env/
 dense/
 sparse/
 images/
+MyDrawingOnImage/
+MyDrawing/
 database.db
 database.db-shm
 database.db-wal
-sample.mp4
+*.mp4
+*.webm
